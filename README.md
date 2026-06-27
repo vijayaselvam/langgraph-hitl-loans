@@ -49,7 +49,7 @@ LangGraph uses this SQLite database strictly as **short-term working memory**.
 **1. Run the Main Simulation**
 Execute the main script to simulate a user requesting a loan and a manager making a decision.
 ```bash
-python3 loan_sanction_example.py
+python3 loan_sanction_application.py
 ```
 *(Follow the interactive terminal prompts to approve, modify, or reject.)*
 
