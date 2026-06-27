@@ -1,5 +1,5 @@
 import sqlite3
-from loan_sanction_example import graph
+from loan_sanction_application import graph
 
 def show_all_threads():
     # 1. Connect to the NEW Loan SQLite database to get all unique thread IDs
